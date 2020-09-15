@@ -1,0 +1,10 @@
+{
+  "sandbox#chatbot": {
+  "props": {
+    //"width": "1000px",
+    //"height": "1024px",
+    "initialContent": "<iframe src='https://festive-almeida-03a36f.netlify.app/'></iframe>",
+    "allowCookies": false
+  }
+}
+}

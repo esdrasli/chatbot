@@ -1,10 +1,10 @@
 {
   "store.home": {
     "blocks": [
-      "info-card#button-home",
-      "shelf",
-      "countdown"]
+      "sandbox#chatbot",
+      "info-card#button-home"]
   },
+  
   "info-card#button-home":{
     "props": {
       "isFullModeStyle": true,
